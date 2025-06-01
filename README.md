@@ -12,62 +12,90 @@ Hi, I'm Pawan - An enthusiastic learner in the field of Artificial Intelligence 
 
 ## 🟢 Ongoing
 
-### 🚀 Smart Attendance System  
-An edge-based, privacy-focused facial recognition system with:  
+<details>
+<summary>🚀 <strong>Smart Attendance System</strong></summary>
+
+An edge-based, privacy-focused facial recognition system  
 - ✅ Real-time attendance logging  
 - ✅ Hybrid validation and energy-efficient design  
 - ✅ Session history, downloadable reports, and UI enhancements  
-**🛠 Tech Stack:** `OpenCV` · `FaceNet` · `SQLite` · `Flask`
+
+**🛠 Tech Stack:** `OpenCV` · `FaceNet` · `SQLite` · `Flask`  
+</details>
 
 ---
 
-### 🧠 Kidney & Tumor Segmentation (SAM‑2)  
-Fine-tuned Meta’s Segment Anything Model v2 (SAM‑2) on the **KiTS23** dataset for accurate slice-level segmentation of kidneys and tumors from 3D abdominal CT scans.  
+<details>
+<summary>🧠 <strong>Kidney & Tumor Segmentation (SAM‑2)</strong></summary>
+
+Fine-tuned Meta’s Segment Anything Model v2 (SAM‑2) on the **KiTS23** dataset  
 - 📈 Achieved **96.05% validation IoU**  
 - 📄 Preparing research paper for **IEEE submission**  
-**🛠 Tech Stack:** `PyTorch` · `SimpleITK` · `Google Colab` · `Kaggle` · `Mango`
+
+**🛠 Tech Stack:** `PyTorch` · `SimpleITK` · `Google Colab` · `Kaggle` · `Mango`  
+</details>
 
 ---
 
-### 🧬 MIAI – Medical Imaging AI Assistant  
+<details>
+<summary>🧬 <strong>MIAI – Medical Imaging AI Assistant</strong></summary>
+
 A GenAI-powered assistant built using LangGraph + Gemini API  
 - 💡 Extracts clinical insights from segmented medical scans  
-**🛠 Tech Stack:** `LangGraph` · `Gemini API` · `RAG` · `Function Calling`
+
+**🛠 Tech Stack:** `LangGraph` · `Gemini API` · `RAG` · `Function Calling`  
+</details>
 
 ---
 
 ## ✅ Completed
 
-### 🌱 BudBloom  
+<details>
+<summary>🌱 <strong>BudBloom</strong></summary>
+
 An AI-powered plant disease detection platform  
 - 🌿 Detects plant disease, identifies cause, and suggests remedies  
 - 🚀 Model deployed via Flask web API  
-**🛠 Tech Stack:** `CNN` · `Flask` · `Python` · `TensorFlow`
+
+**🛠 Tech Stack:** `CNN` · `Flask` · `Python` · `TensorFlow`  
+</details>
 
 ---
 
-### 🎓 Gen AI Capstone Project  
+<details>
+<summary>🎓 <strong>Gen AI Capstone Project</strong></summary>
+
 A Google-backed project focused on GenAI + medical imaging  
 - 💊 Developed tumor diagnosis & treatment assistant  
 - 🔎 Integrated retrieval, search grounding, and function calling  
-**🛠 Tech Stack:** `Gemini API` · `LangGraph` · `Google Search Grounding` · `RAG`
+
+**🛠 Tech Stack:** `Gemini API` · `LangGraph` · `Google Search Grounding` · `RAG`  
+</details>
 
 ---
 
-### 🤖 Color-Based Robotic Arm  
+<details>
+<summary>🤖 <strong>Color-Based Robotic Arm</strong></summary>
+
 An automated pick-and-place system using color detection  
 - 🎯 BeagleBone Blue + 4-axis robotic arm  
 - 🔧 Servo control via I2C and Robotics Cape  
-**🛠 Tech Stack:** `BeagleBone Blue` · `OpenCV` · `I2C` · `Python` · `Robotics Cape`
+
+**🛠 Tech Stack:** `BeagleBone Blue` · `OpenCV` · `I2C` · `Python` · `Robotics Cape`  
+</details>
 
 ---
 
-### 🛤️ Rail Inspection Suite  
+<details>
+<summary>🛤️ <strong>Rail Inspection Suite</strong></summary>
+
 A multi-module industrial AI system for railways:  
 - 🔍 Damaged Parts Detection  
 - 📦 Volume Calculation  
 - 🔢 Wagon Number Identification  
-**🛠 Tech Stack:** `OpenCV` · `Deep Learning` · `Computer Vision`
+
+**🛠 Tech Stack:** `OpenCV` · `Deep Learning` · `Computer Vision`  
+</details>
 
 # 📊 GitHub Stats:
 ![snake gif](https://github.com/Pawan4356/Pawan4356/blob/output/github-snake-dark.svg)
