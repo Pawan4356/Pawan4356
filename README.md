@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Pawan
 An eager learner in AI and Machine Learning, curious about solving real-world problems through intelligent systems and always exploring new ideas in tech.
-<br></br>
+
+![snake gif](https://github.com/Pawan4356/Pawan4356/blob/output/github-snake-dark.svg)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pawankumar12456) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pawankumar27112005) 
 
@@ -130,8 +132,6 @@ A multi-module industrial AI system for railways:
 
 
 # 📊 GitHub Stats:
-![snake gif](https://github.com/Pawan4356/Pawan4356/blob/output/github-snake-dark.svg)
-
 ![](https://github-readme-stats.vercel.app/api?username=Pawan4356&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Pawan4356&theme=calm_pink&hide_border=false)<br/>
