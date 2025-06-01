@@ -5,6 +5,7 @@ Hi, I'm Pawan - An enthusiastic learner in the field of Artificial Intelligence 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pawankumar12456) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pawankumar27112005) 
+
 ---
 
 # 💻 Tech Stack:
@@ -27,8 +28,6 @@ An edge-based, privacy-focused facial recognition system
 **🛠 Tech Stack:** `OpenCV` · `FaceNet` · `SQLite` · `Flask`  
 </details>
 
----
-
 <details>
 <summary>🧠 <strong>Kidney & Tumor Segmentation (SAM‑2)</strong></summary>
 
@@ -39,8 +38,6 @@ Fine-tuned Meta’s Segment Anything Model v2 (SAM‑2) on the **KiTS23** datase
 **🛠 Tech Stack:** `PyTorch` · `SimpleITK` · `Google Colab` · `Kaggle` · `Mango`  
 </details>
 
----
-
 <details>
 <summary>🧬 <strong>MIAI – Medical Imaging AI Assistant</strong></summary>
 
@@ -49,8 +46,6 @@ A GenAI-powered assistant built using LangGraph + Gemini API
 
 **🛠 Tech Stack:** `LangGraph` · `Gemini API` · `RAG` · `Function Calling`  
 </details>
-
----
 
 ## ✅ Completed
 
@@ -64,8 +59,6 @@ An AI-powered plant disease detection platform
 **🛠 Tech Stack:** `CNN` · `Flask` · `Python` · `TensorFlow`  
 </details>
 
----
-
 <details>
 <summary>🎓 <strong>Gen AI Capstone Project</strong></summary>
 
@@ -76,8 +69,6 @@ A Google-backed project focused on GenAI + medical imaging
 **🛠 Tech Stack:** `Gemini API` · `LangGraph` · `Google Search Grounding` · `RAG`  
 </details>
 
----
-
 <details>
 <summary>🤖 <strong>Color-Based Robotic Arm</strong></summary>
 
@@ -87,8 +78,6 @@ An automated pick-and-place system using color detection
 
 **🛠 Tech Stack:** `BeagleBone Blue` · `OpenCV` · `I2C` · `Python` · `Robotics Cape`  
 </details>
-
----
 
 <details>
 <summary>🛤️ <strong>Rail Inspection Suite</strong></summary>
@@ -105,19 +94,21 @@ A multi-module industrial AI system for railways:
 
 # 📊 GitHub Stats:
 ![snake gif](https://github.com/Pawan4356/Pawan4356/blob/output/github-snake-dark.svg)
+
 ![](https://github-readme-stats.vercel.app/api?username=Pawan4356&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Pawan4356&theme=calm_pink&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pawan4356&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ---
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Pawan4356&limit=5&theme=calm_pink&combine_all_yearly_contributions=true)
-
----
 [![](https://visitcount.itsvg.in/api?id=Pawan4356&icon=4&color=3)](https://visitcount.itsvg.in)
