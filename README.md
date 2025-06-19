@@ -54,8 +54,6 @@ An eager learner in AI and Machine Learning, curious about solving real-world pr
 
 # 🗂️ Project Timeline
 
----
-
 ## 🟢 Ongoing Projects
 
 <details>
