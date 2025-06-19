@@ -5,8 +5,6 @@ An eager learner in AI and Machine Learning, passionate about solving real-world
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawankumar-navinchandra-78b3802b4/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@pawankumar27112005)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Pawan4356)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Pawankumar12456/)
 
 # 💻 Tech Stack
@@ -44,23 +42,23 @@ An eager learner in AI and Machine Learning, passionate about solving real-world
 
 ### 🟢 Ongoing Projects
 
-- <a href="https://github.com/your-username/smart-attendance" style="color:white; text-decoration:none;"><strong>Smart Attendance System</strong></a>
-- <a href="https://github.com/your-username/sam2-kits23" style="color:white; text-decoration:none;"><strong>Kidney & Tumor Segmentation (SAM‑2)</strong></a>
-- <a href="https://github.com/your-username/portfolio" style="color:white; text-decoration:none;"><strong>Developer Portfolio</strong></a>
+- <a href="https://github.com/Pawan4356/smart-attendance" style="color:white; text-decoration:none;"><strong>Smart Attendance System</strong></a>
+- <a href="https://github.com/Pawan4356/sam2-kits23" style="color:white; text-decoration:none;"><strong>Kidney & Tumor Segmentation (SAM‑2)</strong></a>
+- <a href="https://github.com/Pawan4356/portfolio" style="color:white; text-decoration:none;"><strong>Developer Portfolio</strong></a>
 
 ### ✅ Completed Projects
 
-- <a href="https://github.com/your-username/Plant-Disease-Detection" style="color:white; text-decoration:none;"><strong>BudBloom</strong></a>
-- <a href="https://github.com/your-username/brick-breaker-javafx" style="color:white; text-decoration:none;"><strong>Brick Breaker Game</strong></a>
-- <a href="https://github.com/your-username/netflix-clone" style="color:white; text-decoration:none;"><strong>Netflix Home Screen UI</strong></a>
-- <a href="https://github.com/your-username/neural-net" style="color:white; text-decoration:none;"><strong>Neural Network from Scratch</strong></a>
-- <a href="https://github.com/your-username/spotify-clone" style="color:white; text-decoration:none;"><strong>Spotify Web UI Clone</strong></a>
+- <a href="https://github.com/Pawan4356/Plant-Disease-Detection" style="color:white; text-decoration:none;"><strong>BudBloom</strong></a>
+- <a href="https://github.com/Pawan4356/brick-breaker-javafx" style="color:white; text-decoration:none;"><strong>Brick Breaker Game</strong></a>
+- <a href="https://github.com/Pawan4356/netflix-clone" style="color:white; text-decoration:none;"><strong>Netflix Home Screen UI</strong></a>
+- <a href="https://github.com/Pawan4356/neural-net" style="color:white; text-decoration:none;"><strong>Neural Network from Scratch</strong></a>
+- <a href="https://github.com/Pawan4356/spotify-clone" style="color:white; text-decoration:none;"><strong>Spotify Web UI Clone</strong></a>
 
 ### 🔜 Upcoming Projects
 
-- <a href="https://github.com/your-username/chess" style="color:white; text-decoration:none;"><strong>Chess Game</strong></a>
-- <a href="https://github.com/your-username/hexagonal-chess" style="color:white; text-decoration:none;"><strong>Hexagonal Chess</strong></a>
-- <a href="https://github.com/your-username/instagram-clone" style="color:white; text-decoration:none;"><strong>Instagram Clone</strong></a>
+- <a href="https://github.com/Pawan4356/chess" style="color:white; text-decoration:none;"><strong>Chess Game</strong></a>
+- <a href="https://github.com/Pawan4356/hexagonal-chess" style="color:white; text-decoration:none;"><strong>Hexagonal Chess</strong></a>
+- <a href="https://github.com/Pawan4356/instagram-clone" style="color:white; text-decoration:none;"><strong>Instagram Clone</strong></a>
 
 
 # 📊 GitHub Stats:
