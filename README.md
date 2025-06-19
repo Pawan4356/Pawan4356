@@ -54,7 +54,9 @@ An eager learner in AI and Machine Learning, curious about solving real-world pr
 
 # 🗂️ Project Timeline
 
-### 🟢 ONGOING
+---
+
+## 🟢 Ongoing Projects
 
 <details>
 <summary>🚀 <strong>Smart Attendance System</strong></summary>
@@ -64,7 +66,7 @@ An edge-based, privacy-focused facial recognition system
 - ✅ Hybrid validation and energy-efficient design  
 - ✅ Session history, downloadable reports, and UI enhancements  
 
-**🛠 Tech Stack:** `OpenCV` · `FaceNet` · `SQLite` · `Flask`  
+**🛠 Tech Stack:** `OpenCV` · `YOLOv8` · `ArcFace` · `FAISS` · `MongoDB` · `Flask`
 </details>
 
 <details>
@@ -74,60 +76,77 @@ Fine-tuned Meta’s Segment Anything Model v2 (SAM‑2) on the **KiTS23** datase
 - 📈 Achieved **96.05% validation IoU**  
 - 📄 Preparing research paper for **IEEE submission**  
 
-**🛠 Tech Stack:** `PyTorch` · `SimpleITK` · `Google Colab` · `Kaggle` · `Mango`  
+**🛠 Tech Stack:** `PyTorch` · `SimpleITK` · `Google Colab` · `Kaggle` · `Mango`
 </details>
 
 <details>
-<summary>🧬 <strong>MIAI – Medical Imaging AI Assistant</strong></summary>
+<summary>🌐 <strong>Developer Portfolio</strong></summary>
 
-A GenAI-powered assistant built using LangGraph + Gemini API  
-- 💡 Extracts clinical insights from segmented medical scans  
+A personal portfolio showcasing all major projects and achievements  
+- 📱 Responsive layout and project highlights  
+- 🎯 Targeted for job & internship visibility  
 
-**🛠 Tech Stack:** `LangGraph` · `Gemini API` · `RAG` · `Function Calling`  
+**🛠 Tech Stack:** `HTML` · `CSS` · `JavaScript` · `React` *(optional)*
 </details>
 
-### ✅ COMPLETED
+## ✅ Completed Projects
 
 <details>
-<summary>🌱 <strong>BudBloom</strong></summary>
+<summary>🌿 <strong>BudBloom</strong></summary>
 
 An AI-powered plant disease detection platform  
-- 🌿 Detects plant disease, identifies cause, and suggests remedies  
-- 🚀 Model deployed via Flask web API  
+- 🌱 Identifies plant disease and suggests remedies  
+- 🔍 Deployed model for instant results  
 
-**🛠 Tech Stack:** `CNN` · `Flask` · `Python` · `TensorFlow`  
+**🛠 Tech Stack:** `CNN` · `Flask` · `Python` · `TensorFlow`
 </details>
 
 <details>
-<summary>🎓 <strong>Gen AI Capstone Project</strong></summary>
+<summary>🧱 <strong>Brick Breaker Game</strong></summary>
 
-A Google-backed project focused on GenAI + medical imaging  
-- 💊 Developed tumor diagnosis & treatment assistant  
-- 🔎 Integrated retrieval, search grounding, and function calling  
+A JavaFX-based desktop game with difficulty modes  
+- 🧠 Unbreakable and strong blocks  
+- 🎮 Paddle size & layout adjusted per level  
 
-**🛠 Tech Stack:** `Gemini API` · `LangGraph` · `Google Search Grounding` · `RAG`  
+**🛠 Tech Stack:** `Java` · `JavaFX`
 </details>
 
 <details>
-<summary>🤖 <strong>Color-Based Robotic Arm</strong></summary>
+<summary>📺 <strong>Netflix Home Screen UI</strong></summary>
 
-An automated pick-and-place system using color detection  
-- 🎯 BeagleBone Blue + 4-axis robotic arm  
-- 🔧 Servo control via I2C and Robotics Cape  
+A static clone of Netflix landing page  
+- 📱 Fully responsive layout  
+- ✨ Interactive hover effects  
 
-**🛠 Tech Stack:** `BeagleBone Blue` · `OpenCV` · `I2C` · `Python` · `Robotics Cape`  
+**🛠 Tech Stack:** `HTML` · `CSS`
 </details>
 
 <details>
-<summary>🛤️ <strong>Rail Inspection Suite</strong></summary>
+<summary>🧠 <strong>Neural Network from Scratch</strong></summary>
 
-A multi-module industrial AI system for railways:  
-- 🔍 Damaged Parts Detection  
-- 📦 Volume Calculation  
-- 🔢 Wagon Number Identification  
+Implemented a fully connected neural network  
+- 📊 Trained on custom datasets  
+- 🧪 Explored weight initialization & loss functions  
 
-**🛠 Tech Stack:** `OpenCV` · `Deep Learning` · `Computer Vision`  
+**🛠 Tech Stack:** `NumPy` · `Python`
 </details>
+
+<details>
+<summary>🎧 <strong>Spotify Web UI Clone</strong></summary>
+
+A front-end recreation of Spotify’s UI  
+- 🎵 Playlist & music card layout  
+- ⚡ Interactive animations and responsive design  
+
+**🛠 Tech Stack:** `HTML` · `CSS` · `JavaScript`
+</details>
+
+## 🔜 Upcoming Projects
+
+- ♟️ **Chess Game**
+- 🔷 **Hexagonal Chess**
+- 📸 **Instagram Clone**
+
 
 
 
