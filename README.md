@@ -38,29 +38,6 @@ An eager learner in AI and Machine Learning, passionate about solving real-world
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
-# 🗂️ Project Timeline
-
-### 🟢 Ongoing Projects
-
-- <a href="https://github.com/Pawan4356/smart-attendance" style="color:white; text-decoration:none;"><strong>Smart Attendance System</strong></a>
-- <a href="https://github.com/Pawan4356/sam2-kits23" style="color:white; text-decoration:none;"><strong>Kidney & Tumor Segmentation (SAM‑2)</strong></a>
-- <a href="https://github.com/Pawan4356/portfolio" style="color:white; text-decoration:none;"><strong>Developer Portfolio</strong></a>
-
-### ✅ Completed Projects
-
-- <a href="https://github.com/Pawan4356/Plant-Disease-Detection" style="color:white; text-decoration:none;"><strong>BudBloom</strong></a>
-- <a href="https://github.com/Pawan4356/brick-breaker-javafx" style="color:white; text-decoration:none;"><strong>Brick Breaker Game</strong></a>
-- <a href="https://github.com/Pawan4356/netflix-clone" style="color:white; text-decoration:none;"><strong>Netflix Home Screen UI</strong></a>
-- <a href="https://github.com/Pawan4356/neural-net" style="color:white; text-decoration:none;"><strong>Neural Network from Scratch</strong></a>
-- <a href="https://github.com/Pawan4356/spotify-clone" style="color:white; text-decoration:none;"><strong>Spotify Web UI Clone</strong></a>
-
-### 🔜 Upcoming Projects
-
-- <a href="https://github.com/Pawan4356/chess" style="color:white; text-decoration:none;"><strong>Chess Game</strong></a>
-- <a href="https://github.com/Pawan4356/hexagonal-chess" style="color:white; text-decoration:none;"><strong>Hexagonal Chess</strong></a>
-- <a href="https://github.com/Pawan4356/instagram-clone" style="color:white; text-decoration:none;"><strong>Instagram Clone</strong></a>
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pawan4356&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
