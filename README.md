@@ -1,4 +1,4 @@
-<img src="Welcome.gif" width="100%">
+<img src="Header.gif" width="100%">
 
 👋Pawan here, an eager learner in AI and Machine Learning, passionate about solving real-world problems through intelligent systems. Currently exploring MLOps and open to collaboration opportunities.
 
