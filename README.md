@@ -1,8 +1,16 @@
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img src="Confetti.gif" alt="Welcome GIF" width="20%" />
-  <img src="Welcome.gif" alt="Welcome GIF" width="45%" />
-  <img src="Confetti.gif" alt="Welcome GIF" width="20%" />
-</p>
+<div style="position: relative; width: 900px; height: 150px; overflow: hidden; display: flex; justify-content: center; align-items: center;">
+  <!-- Background GIF, cropped and centered -->
+  <img src="Welcome2.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100px; object-fit: cover; opacity: 0.9; z-index: 0;" />
+
+  <!-- Confetti overlays side by side at the top -->
+  <div style="position: absolute; top: 10px; left: 0; width: 100%; display: flex; justify-content: center; gap: 5px; z-index: 1;">
+    <img src="Confetti.gif" style="width: 20%;" />
+    <img src="Confetti.gif" style="width: 20%;" />
+    <img src="Confetti.gif" style="width: 20%;" />
+    <img src="Confetti.gif" style="width: 20%;" />
+  </div>
+</div>
+
 
 An eager learner in AI and Machine Learning, passionate about solving real-world problems through intelligent systems. Currently exploring MLOps and open to collaboration opportunities.
 
