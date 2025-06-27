@@ -1,4 +1,9 @@
-# 👋 Hi, I'm Pawan
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img src="Confetti.gif" alt="Welcome GIF" width="20%" />
+  <img src="Welcome.gif" alt="Welcome GIF" width="45%" />
+  <img src="Confetti.gif" alt="Welcome GIF" width="20%" />
+</p>
+
 An eager learner in AI and Machine Learning, passionate about solving real-world problems through intelligent systems. Currently exploring MLOps and open to collaboration opportunities.
 
 ![snake gif](https://github.com/Pawan4356/Pawan4356/blob/output/github-snake-dark.svg)
