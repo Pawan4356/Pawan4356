@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="Confetti.gif" width="23%">
-  <img src="Welcome2.gif" width="50%">
-  <img src="Confetti.gif" width="23%">
-</p>
+<img src="Welcome.gif" width="100%">
 
-An eager learner in AI and Machine Learning, passionate about solving real-world problems through intelligent systems. Currently exploring MLOps and open to collaboration opportunities.
+👋Pawan here, an eager learner in AI and Machine Learning, passionate about solving real-world problems through intelligent systems. Currently exploring MLOps and open to collaboration opportunities.
 
 ![snake gif](https://github.com/Pawan4356/Pawan4356/blob/output/github-snake-dark.svg)
 
